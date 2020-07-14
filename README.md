@@ -1,6 +1,6 @@
 # IOHK web
 
-At IOHK we have built and maintain a number of open source repositories we use to build our website and web apps. We have embraced the blazing fast web revolution and follow [JAMStack](https://jamstack.org/) principles to create secure and performant static websites.
+At IOHK we have built and maintain a number of open source repositories we use to build our website and web apps. We have embraced the blazing fast web revolution, utilising the latest in web technologies and principles, and follow the [JAMStack](https://jamstack.org/) method to create secure and performant static websites.
 
 Our tech stack consists of:
 
