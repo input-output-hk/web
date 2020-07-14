@@ -1,18 +1,18 @@
 # IOHK web
 
-At IOHK we have built and maintain a number of open source repositories we use to build our website and web apps. We follow the [JAMStack](https://jamstack.org/) principles and create static websites.
+At IOHK we have built and maintain a number of open source repositories we use to build our website and web apps. We have embraced the blazing fast web revolution and follow [JAMStack](https://jamstack.org/) principles to create secure and performant static websites.
 
 Our tech stack consists of:
 
-* Node.js
 * JavaScript
 * HTML
 * CSS
+* Node.js
 
 The tools and frameworks we use are:
 
-* [GatsbyJS](https://www.gatsbyjs.org/)
 * [React](https://reactjs.org/)
+* [GatsbyJS](https://www.gatsbyjs.org/)
 * [Netlify](https://www.netlify.com/)
 * [Firebase](https://firebase.google.com/)
 * [Material UI](https://material-ui.com/)
